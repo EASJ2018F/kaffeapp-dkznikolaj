@@ -12,7 +12,7 @@ namespace kaffe.Tests
     public class KaffeTests
     {
         [TestMethod()]
-        public void prisTestKaffe()
+        public void KaffePrisTest()
         {
             //Arrange
             var kaffe = new SortKaffe();
@@ -24,7 +24,7 @@ namespace kaffe.Tests
         }
 
         [TestMethod()]
-        public void styrkeTestKaffe()
+        public void KaffeStyrkeTest()
         {
             //Arrange
             var kaffe = new SortKaffe();
@@ -34,7 +34,7 @@ namespace kaffe.Tests
             Assert.AreEqual("stærk", styrke);
         }
         [TestMethod()]
-        public void TestKaffeliste()
+        public void KaffeTestliste()
         {
             
             //Arrange

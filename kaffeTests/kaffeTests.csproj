@@ -54,6 +54,7 @@
     <Compile Include="KaffeTests.cs" />
     <Compile Include="LatteTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FlatWhiteTests.cs" />
     <Compile Include="SortKaffeTests.cs" />
   </ItemGroup>
   <ItemGroup>

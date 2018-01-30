@@ -13,7 +13,7 @@ namespace kaffe.Tests
     {
         [TestMethod()]
         [ExpectedException(typeof(ArgumentException))]
-        public void PrisTestForMegetRabat20kr()
+        public void SortKaffePrisTestForMegetRabat20kr()
         {
             //Arrange
             var sortKaffe = new SortKaffe(20);
@@ -24,7 +24,7 @@ namespace kaffe.Tests
 
         [TestMethod()]
         [ExpectedException(typeof(ArgumentException))]
-        public void PrisTestForMegetRabat21kr()
+        public void SortKaffePrisTestForMegetRabat21kr()
         {
             //Arrange
             var sortKaffe = new SortKaffe(21);

@@ -12,7 +12,7 @@ namespace kaffe.Tests
     public class LatteTests
     {
         [TestMethod()]
-        public void prisTestLatte()
+        public void LattePrisTest()
         {
             //Arrange
             var latte = new Latte();

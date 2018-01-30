@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cortado.cs" />
+    <Compile Include="FlatWhite.cs" />
     <Compile Include="Imælk.cs" />
     <Compile Include="Kaffe.cs" />
     <Compile Include="Latte.cs" />
